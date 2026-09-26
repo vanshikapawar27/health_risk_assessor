@@ -1,0 +1,18 @@
+[
+  {
+    "date": "2026-03-31 22:33",
+    "risk_label": "High",
+    "age": 32,
+    "bmi": 50.0,
+    "sleep_hours": 7.0,
+    "steps": 5000,
+    "water_ml": 2000,
+    "stress_level": 8,
+    "heart_rate": 50,
+    "diet_quality": 9,
+    "exercise_mins": 200,
+    "screen_hours": 20.0,
+    "smoking": 50,
+    "alcohol_units": 20
+  }
+]
